@@ -19,3 +19,7 @@ video_cartoonize.py:영상을 만화처럼 만들어주는 코드
 영상자료
 
 
+
+https://user-images.githubusercontent.com/61642764/228147361-956ca348-51ee-4e28-a3a8-f44dd439ed95.mov
+
+
